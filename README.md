@@ -1,8 +1,17 @@
 # CAA_project01
 
+### TASKS:
+_Miguel_: Develop method of feature selection (Lasso and Ridge regressions) and develop CNN models. 
+
+_Eero_: develop DNN models.
+
+### Goal
+Use deep learning to improve the previous work (paper is on git). Use CNN and DNN, vary the parameters (number of hidden layers, number of filters, number of neuros per layers, optimization function, activation function) and get the best model.
+
 ### Dataset
-The dataset is here: https://archive.ics.uci.edu/dataset/45/heart+disease . The data is already divided into Training&Validation and Test datasets.
-The data gives the following features:
+The dataset is here: https://archive.ics.uci.edu/dataset/45/heart+disease . The data is already divided into Training&Validation (237 samples) and Test (60 samples) datasets. The orignal dataset had 6 more rows, but they were deleted.
+
+##### The data gives the following features:
 1) age (integer)
 2) trestbps (integer) - resting blood pressure /mm Hg (on
 admission to the hospital)
@@ -49,6 +58,3 @@ disease status)
 - 2: Second Level of Severity for CAD
 - 3: Third Level of Severity for CAD
 - 4: Fourth Level of Severity for CAD
-
-### Goal
-Use deep learning to improve the previous work (paper is on git). Use CNN and DNN, vary the parameters (number of hidden layers, number of filters, number of neuros per layers, optimization function, activation function) and get the best model.
