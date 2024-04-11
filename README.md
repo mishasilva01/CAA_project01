@@ -1,9 +1,9 @@
 # CAA_project01
 
 ### TASKS:
-_Miguel_: Develop method of feature selection (Lasso and Ridge regressions) and develop CNN models. 
+_Miguel_: Develop method of feature selection (Lasso and Ridge regressions) and develop CNN models. Write conclusions in https://www.overleaf.com/4862255857xhbmmbxtdjzv#37c56b
 
-_Eero_: develop DNN models.
+_Eero_: develop DNN models. Write conclusions in https://www.overleaf.com/4862255857xhbmmbxtdjzv#37c56b
 
 ### Goal
 Use deep learning to improve the previous work (paper is on git). Use CNN and DNN, vary the parameters (number of hidden layers, number of filters, number of neuros per layers, optimization function, activation function) and get the best model.
